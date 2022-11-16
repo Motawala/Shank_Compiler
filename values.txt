@@ -1,0 +1,10 @@
+define start(a,b : integer; var c:integer)
+Variables
+counter,d: integer
+KP,b: integer
+begin
+while true
+begin
+counter := 1+1
+end
+end
